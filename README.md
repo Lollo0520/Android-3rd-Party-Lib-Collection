@@ -160,6 +160,49 @@ Android library to observe scroll events on scrollable views.
 **Android Reveal Animation** **抽屉汉堡包按钮动画**Android UI library.
 ![](https://raw.githubusercontent.com/markushi/android-ui/master/example-reveal.gif) ![](https://raw.githubusercontent.com/markushi/android-ui/master/example-action.gif)
 
+[kongnanlive / SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim)
+SearchView动画
+![](https://raw.githubusercontent.com/kongnanlive/SearchMenuAnim/master/search.gif)
+
+[timehop / sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
+Sticky Headers decorator for Android's RecyclerView
+
+![](https://camo.githubusercontent.com/2712b977a781964db02085035e43281773ab4ffa/687474703a2f2f692e696d6775722e636f6d2f49307a746f50772e676966)
+
+[kaltura / player-sdk-native-android](https://github.com/kaltura/player-sdk-native-android)
+![](https://camo.githubusercontent.com/bba881376786ae91c83290ca7056338591cf35f5/687474703a2f2f68746d6c35766964656f2e6f72672f70726573656e746174696f6e732f48544d4c3550617274446575782e464f5344454d2e323031342f706c617965722d6e61746976652e706e67)
+
+[florent37 / MaterialLeanBack](https://github.com/florent37/MaterialLeanBack)
+A beautiful leanback port for Smartphones and Tablets实现上滑滚动列表以及item左右滑动的库
+
+![](https://raw.githubusercontent.com/florent37/MaterialLeanBack/master/screens/sample_2.gif)
+
+[ysnows / DoubleScrollVIew](https://github.com/ysnows/DoubleScrollVIew)
+android仿京东、淘宝商品详情页上拉查看详情
+
+[anton46 / Foursquare-CollectionPicker](https://github.com/anton46/Foursquare-CollectionPicker)
+Collection Picker is an Android View library that looks like Foursquare Tastes picker
+
+![](https://github.com/anton46/Foursquare-CollectionPicker/raw/master/image1.png)
+
+[sephiroth74 / OverlayMenu](https://github.com/sephiroth74/OverlayMenu)
+Android Overlay Menu
+
+![](https://camo.githubusercontent.com/6b7a3d8562b05aed5f6476496b56c046c849983c/687474703a2f2f696d672e796f75747562652e636f6d2f76692f766f465762343073424a512f302e6a7067)
+
+[AndroidDeveloperLB / AutoFitTextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)
+A TextView that automatically fit its font and line count based on its available size and content自适应大小和行的textview
+![](https://raw.githubusercontent.com/AndroidDeveloperLB/AutoFitTextView/master/animationPreview.gif)
+
+[soarcn / BottomSheet](https://github.com/soarcn/BottomSheet)
+One way to present a set of actions to a user is with bottom sheets, a sheet of paper that slides up from the bottom edge of the screen. Bottom sheets offer flexibility in the display of clear and simple actions that do not need explanation.
+
+![](https://github.com/soarcn/BottomSheet/raw/master/art/image.png?raw=true)
+
+[DavidPizarro / PickerUI](https://github.com/DavidPizarro/PickerUI)
+Android library to display a list of items for pick one仿iOS的滑动选择wheelview控件(
+
+![](https://github.com/DavidPizarro/PickerUI/raw/master/art/screenshots_framed.png)
 
 
 
@@ -192,11 +235,16 @@ Android library to observe scroll events on scrollable views.
 [dersoncheng / MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 Android换肤／**夜间模式**的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
 
+类似: https://github.com/zzz40500/ThemeDemo
+
 [motianhuo / VCameraDemo](https://github.com/motianhuo/VCameraDemo)
 微信小视频+秒拍
 
 [yoojia / ZXingMini](https://github.com/yoojia/ZXingMini)
 基于ZXing Android实现的QRCode扫描支持库。包括**`生成二维码图片`**和**`相机扫描二维码图片即时解码`**两部分功能。
+
+[tumblr / Backboard](https://github.com/tumblr/Backboard)
+A motion-driven animation framework for Android 基于Rebound的动画框架
 
 
 ###各种Demo App
@@ -231,6 +279,14 @@ Implementation of Instagram with **Material Design** (originally based on Emmanu
 [googlesamples / android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
 This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices
 
+[hitherejoe / Tabby](https://github.com/hitherejoe/Tabby)
+A demo application for the new **Android Custom Tabs support library**
+
+[TwidereProject / Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
+Twidere is a powerful twitter client for Android 4.0+, which gives you a full Material experience and nearly complete (and even better) Twitter feature.
+
+
+
 
 ###其他
 常用第三方库的Proguard配置
@@ -247,6 +303,17 @@ A comprehensive tutorial for **Android Data Binding**
 [helmbold / rxfilewatcher](https://github.com/helmbold/rxfilewatcher)
 Convenient file watcher with an RxJava interface, based on JDK WatchService
 
+[Juude / droidReverse](https://github.com/Juude/droidReverse)
+reverse engineering tools for android（android 逆向工程工具集）
+
+[webpartners / WPAndroidPermissions](https://github.com/webpartners/WPAndroidPermissions)
+让Android M权限变得简单
+
+[Quinny898 / PersistentSearch](https://github.com/Quinny898/PersistentSearch)
+A clone of the Google Now/Maps/Play persistent search bar
+
+![](https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif)
+
 
 ###快速建App
 [tangqi92 / BuildingBlocks（App模版) 积木 - 等你来搭建属于自己的应用](https://github.com/tangqi92/BuildingBlocks)
@@ -255,6 +322,12 @@ Convenient file watcher with an RxJava interface, based on JDK WatchService
 ###iOS
 [yoavlt / LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 Material Design Floating Action Button in liquid state
+
+[100mango / zen](https://github.com/100mango/zen)
+iOS 学习心得
+
+[lookingstars / meituan](https://github.com/lookingstars/meituan)
+高仿美团iOS版
 
 ###第三方库目录收集
 [1sters / material_design_zh](https://github.com/1sters/material_design_zh)
@@ -282,6 +355,12 @@ Collect and classify android open source projects 微信公众号:codekk 微博:
 
 [zeng1990java / android-practice-tips](https://github.com/zeng1990java/android-practice-tips)
 **收集Android开发中各种最佳实践的文章**
+
+[tianzhijiexian / Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices)
+Android最佳实践示例
+
+[giantray / stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa)
+stackoverflow上Java相关回答整理翻译
 
 
 
