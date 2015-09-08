@@ -204,6 +204,11 @@ Android library to display a list of items for pick one仿iOS的滑动选择whee
 
 ![](https://github.com/DavidPizarro/PickerUI/raw/master/art/screenshots_framed.png)
 
+[Quinny898 / PersistentSearch](https://github.com/Quinny898/PersistentSearch)
+A clone of the Google Now/Maps/Play persistent search bar
+
+![](https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif)
+
 
 
 ###数据和通信
@@ -309,10 +314,7 @@ reverse engineering tools for android（android 逆向工程工具集）
 [webpartners / WPAndroidPermissions](https://github.com/webpartners/WPAndroidPermissions)
 让Android M权限变得简单
 
-[Quinny898 / PersistentSearch](https://github.com/Quinny898/PersistentSearch)
-A clone of the Google Now/Maps/Play persistent search bar
 
-![](https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif)
 
 
 ###快速建App
